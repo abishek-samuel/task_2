@@ -1,2 +1,0 @@
-string location
-string info

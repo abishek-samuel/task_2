@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(survey_and_rescue)
+project(task_2)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
@@ -46,13 +46,7 @@ find_package(catkin REQUIRED COMPONENTS
 ##   * uncomment the generate_messages entry below
 ##   * add every package in MSG_DEP_SET to generate_messages(DEPENDENCIES ...)
 
-## Generate messages in the 'msg' folder
-add_message_files(
-  FILES
-  SRDroneStats.msg
-  SRInfo.msg
-  SRBeaconStats.msg
-)
+
 
 ## Generate services in the 'srv' folder
 # add_service_files(

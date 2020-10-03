@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>survey_and_rescue</name>
+  <name>task_2</name>
   <version>0.0.0</version>
-  <description>The survey_and_rescue theme package</description>
+  <description>The task2 package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="rishikesh@e-yantra.org">Rishi</maintainer>
+  <maintainer email="kaushik5498@gmail.com">Rishi</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
